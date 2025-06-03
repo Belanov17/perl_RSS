@@ -229,9 +229,6 @@ Analyse terminée. Résultats sauvegardés dans 'articles_analyse.csv'.\
   • politique (391 occurrences)\
 Graphique politique généré : articles_par_site.png
 
-## fichier png : 
-
-![articles_par_site.png]("/Users/belanov/Desktop/capture.png"){width=70%}
 
 ## seconde exécution avec l'option stopwords  
 Nous allons assayer de retirer le mot plus de nos statistiques 
@@ -354,13 +351,5 @@ Analyse terminée. Résultats sauvegardés dans 'articles_analyse.csv'.\
   • vidéos (420 occurrences)\
   • politique (347 occurrences)\
 Graphique politique généré : articles_par_site.png\
-(base) belanov@MacBook-Pro-de-belanov projet_final  % 
 
-## fichier png 2: 
-![articles_par_site.png]("/Users/belanov/Desktop/cap.png"){width=70%}
-
-
-## exemple de visualisation  avec R dans mots stockées dans le fichier keywords_stats.csv 
-
-Top 25 des mots-clés par orientation médiatique( provenant de la  seconde exécution  du programme)
 
